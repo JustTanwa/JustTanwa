@@ -1,3 +1,4 @@
+![background wave svg](wave.svg)
 <h1 align="center">👋 Hey! Tanwa Sripan here.</h1>
 <h3 align="center">A front-end developer with a passion for learning and problem solving.</h3>
 

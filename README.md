@@ -1,12 +1,23 @@
-# About me
-- 👋 Hi, I’m @Katakung95.
-- 👀 I’m interested in coding, gaming and anime. 
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on web development language and framework such as HTML5, CSS3 and JS. 
+<h1 align="center">👋 Hey! Tanwa Sripan here.</h1>
+<h3 align="center">A front-end developer with a passion for learning and problem solving.</h3>
 
-## My work
-- I am currently completing various courses on FreeCodeCamp, so you will see various projects on my repository relating to them. Feel free to add comments and interact with me or my work.
-- I have created some simple web apps, see [Tic-Tac-Toe](https://focused-wozniak-fe8d98.netlify.app/) and [MiniApps](https://app.netlify.com/sites/sleepy-ramanujan-3178c1/overview).
+<h3 align="left">About me:</h3>
 
-### My goals
-- I am based in Stockholm, Sweden and at presence I am looking for a new role in front-end web development. I plan to continue my coding journey and learn back-end development to become a full stack developer. 
+- :book: I am currently learning ReactJS, and participating in [100DaysOfCode Challenge](https://www.100daysofcode.com/) to learn more about Data Structure and Algorithm.
+
+- 📝 I like to share my learning experiences on <a href="https://dev.to/justtanwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justtanwa" height="30" width="40" /></a>. I regularly post around HTML, CSS and JavaScript for beginners.
+
+- 💬 Ask me about **HTML, CSS and Javascript**.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/justtanwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justtanwa" height="30" width="40" /></a>
+<a href="https://twitter.com/justtanwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justtanwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanwasripan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanwasripan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="60" height="60"/> </a> 
+ </p>
+

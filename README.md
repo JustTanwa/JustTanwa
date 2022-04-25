@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- :book: I am currently learning ReactJS, and participating in [100DaysOfCode Challenge](https://www.100daysofcode.com/) to learn more about Data Structure and Algorithm.
+- :book: I am currently learning ReactJS and DSA, and participating in [100DaysOfCode Challenge](https://www.100daysofcode.com/) to learn more about Data Structure and Algorithm.
 
 - 📝 I like to share my learning experiences on <a href="https://dev.to/justtanwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justtanwa" height="30" width="40" /></a>. I regularly post around HTML, CSS and JavaScript for beginners.
 

@@ -6,9 +6,9 @@
 
 - 👨‍💻 My current role is a system developer working with Oracle Netsuite. 
 
-- :book: In my spare time, I am currently learning how to use a Raspberry Pi to build cool stuff. Navigating the world of Unix-like operating system with Raspberry Pi OS and terminal based text editor like nano. 
+- :book: I am currently learning how to use a Raspberry Pi to build cool stuff. Navigating the world of Unix-like operating system with Raspberry Pi OS and terminal based text editor like nano. 
 
-- 📝 I like to share my learning experiences by writing blog posts, but admittedly I have not had much time to write since I have been working full-time. I am determined to start sharing again, specifically around my field of work, you can follow along if you are interested on my website<a href="https://www.tanwasripan.com" target="blank"></a>.
+- 📝 I like to share my learning experiences by writing blog posts, but admittedly I have not had much time to write since I have been working full-time. I am determined to start sharing again, specifically around my field of work, if you are interested you can read the posts on my <a href="https://www.tanwasripan.com/blogs" target="blank">blog</a>.
 
 
 <h3 align="left">Let's connect:</h3>

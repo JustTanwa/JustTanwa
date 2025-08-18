@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 My current role is a system developer working with Oracle Netsuite. 
+- 👨‍💻 My current role is a senior software developer working with Oracle Netsuite. 
 
 - :book: I am currently learning how to use a Raspberry Pi to build cool stuff. Navigating the world of Unix-like operating system with Raspberry Pi OS and terminal based text editor like nano. 
 
